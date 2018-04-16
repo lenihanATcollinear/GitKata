@@ -10,6 +10,9 @@
 
 ## Start your Feature Kata
 	$ git checkout -b feature-to-work-on
+	$ git add -all
+	$ git commit -m “this a a good description of what the changes are for”
 
 ## Complete your feature Kata
 
+	$ git push origin feature-to-work-on
