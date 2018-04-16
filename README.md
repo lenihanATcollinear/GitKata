@@ -5,9 +5,9 @@
 * Commit often
 * Ask another to complete your pull requests
 
-Start your day Kata
+## Start your day Kata
 
-Start your day Kata
+## Start your day Kata
 
-Complete your feature Kata
+## Complete your feature Kata
 
