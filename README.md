@@ -5,9 +5,11 @@
 * Commit often
 * Ask another to complete your pull requests
 
-## Start your day Kata
+## Start your Day Kata
+	$ git pull origin master
 
-## Start your day Kata
+## Start your Feature Kata
+	$ git checkout -b feature-to-work-on
 
 ## Complete your feature Kata
 
