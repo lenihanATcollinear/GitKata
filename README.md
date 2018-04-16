@@ -16,3 +16,8 @@
 ## Complete your feature Kata
 
 	$ git push origin feature-to-work-on
+
+* Create a pull request
+* Ask for and complete a code review
+* Reviewer Merges the Request
+* Delete the Branch
